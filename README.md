@@ -1,2 +1,2 @@
-# JavaScript-
+# JavaScript笔记
 Node
